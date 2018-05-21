@@ -78,7 +78,7 @@ hr {
 }
 .stats > div:not(#addressError) {
   color: #7C7C7C;
-  padding: 10px 0px;
+  padding: 3.5px 0px;
 }
 .stats > div:not(#addressError).marketFooter {
   padding: 5px 0;
