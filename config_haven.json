@@ -24,6 +24,9 @@
         "minerTimeout": 900,
         "sslKey": "key.pem",
         "sslCert": "cert.pem",
+          "allowedMinerAddressPrefixes": [
+          "2864026", "536986"
+        ],
         "ports": [
             {
                 "port": 3333,
