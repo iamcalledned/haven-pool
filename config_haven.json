@@ -26,7 +26,7 @@
         "sslKey": "key.pem",
         "sslCert": "cert.pem",
         "allowedMinerAddressPrefixes": [
-          "2864026", "536986", "623300947"
+          "0945", "28", "841588"
        ],
         "ports": [
             {
