@@ -20,7 +20,7 @@
         "enabled": true,
         "clusterForks": "auto",
         "poolAddress": "hvxy28aJhVdSStEdCEAFkt2n6mhdiKXdriqxGcQn31PXPxuJCV31JDBdBnp1uEurp79e4tNCNKXZcSTzHD4XX8s29DfqpHYadv",
-        "intAddressPrefix": 841588
+        "intAddressPrefix": 841588,
         "blockRefreshInterval": 10,
         "minerTimeout": 900,
         "sslKey": "key.pem",
