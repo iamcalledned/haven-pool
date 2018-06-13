@@ -19,8 +19,8 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "hvxyCxnEnBa8Go92GSvhXgZtZMpNpi2itLvhPr8fZzd8BgjrkqPeHaQ3YaTVRUyjSXg3AsKXbe4zTbp1BfN6mzyc92tZVszhgV",
-        "blockRefreshInterval": 1000,
+        "poolAddress": "hvxy28aJhVdSStEdCEAFkt2n6mhdiKXdriqxGcQn31PXPxuJCV31JDBdBnp1uEurp79e4tNCNKXZcSTzHD4XX8s29DfqpHYadv",
+        "blockRefreshInterval": 10,
         "minerTimeout": 900,
         "sslKey": "key.pem",
         "sslCert": "cert.pem",
@@ -107,21 +107,20 @@
         "interval": 10800,
         "maxAddresses": 30,
         "mixin": 9,
-        "transferFee": 10000000,
-        "minPayment": 100000000000,
+        "transferFee": 0,
+        "minPayment": 10000000000,
         "maxTransactionAmount": 50000000000000,
-        "denomination": 100000000000,
+        "denomination": 1000000000,
         "useDynamicTransferFee": true,
-        "transferFeePerPayee": 4000000,
-        "minerPayFee": true,
-        "blockReward": 32.00
+        "transferFeePerPayee": 0,
+        "minerPayFee": true
     },
 
     "blockUnlocker": {
         "enabled": true,
         "interval": 30,
         "depth": 60,
-        "poolFee": 1,
+        "poolFee": 0,
         "devDonation": 0,
         "coreDevDonation": 0,
         "extraFeaturesDevDonation":0
@@ -134,18 +133,18 @@
         "port": 8118,
         "blocks": 30,
         "payments": 30,
-        "password": "your_password",
+        "password": "kiki6969",
         "trust_proxy_ip": false
     },
 
     "daemon": {
-        "host": "127.0.0.1",
-        "port": 19734
+        "host": "18.221.222.198",
+        "port": 17750
     },
 
     "wallet": {
-        "host": "127.0.0.1",
-        "port": 19735
+        "host": "18.221.222.198",
+        "port": 17752
     },
 
     "redis": {
