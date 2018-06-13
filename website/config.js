@@ -1,10 +1,10 @@
-var api = "https://pool.havenprotocol.com/api";
+var api = "http://ec2-18-188-40-30.us-east-2.compute.amazonaws.com:8118";
 
-var poolHost = "pool.havenprotocol.com";
+var poolHost = "ec2-18-188-40-30.us-east-2.compute.amazonaws.com";
 
 var irc = "irc.freenode.net/#haven";
 
-var email = "havencurrency@gmail.com";
+var email = "iamcalledned@gmail.com";
 
 var cryptonatorWidget = ["{symbol}-BTC", "{symbol}-USD", "{symbol}-EUR"];
 
